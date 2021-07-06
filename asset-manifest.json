@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.985643b0.chunk.css",
-    "main.js": "/Portfolio/static/js/main.2d1b9f6c.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.2d1b9f6c.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.7617685a.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.7617685a.js.map",
+    "main.js": "/Portfolio/static/js/main.d7fcf3e4.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.d7fcf3e4.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.c93fc959.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.c93fc959.js.map",
     "static/css/2.b4e56faa.chunk.css": "/Portfolio/static/css/2.b4e56faa.chunk.css",
-    "static/js/2.aabf693b.chunk.js": "/Portfolio/static/js/2.aabf693b.chunk.js",
-    "static/js/2.aabf693b.chunk.js.map": "/Portfolio/static/js/2.aabf693b.chunk.js.map",
-    "static/js/3.b8d84261.chunk.js": "/Portfolio/static/js/3.b8d84261.chunk.js",
-    "static/js/3.b8d84261.chunk.js.map": "/Portfolio/static/js/3.b8d84261.chunk.js.map",
+    "static/js/2.9e25f499.chunk.js": "/Portfolio/static/js/2.9e25f499.chunk.js",
+    "static/js/2.9e25f499.chunk.js.map": "/Portfolio/static/js/2.9e25f499.chunk.js.map",
+    "static/js/3.2b367238.chunk.js": "/Portfolio/static/js/3.2b367238.chunk.js",
+    "static/js/3.2b367238.chunk.js.map": "/Portfolio/static/js/3.2b367238.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.b4e56faa.chunk.css.map": "/Portfolio/static/css/2.b4e56faa.chunk.css.map",
     "static/css/main.985643b0.chunk.css.map": "/Portfolio/static/css/main.985643b0.chunk.css.map",
-    "static/js/2.aabf693b.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.aabf693b.chunk.js.LICENSE.txt",
+    "static/js/2.9e25f499.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9e25f499.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/Portfolio/static/media/Background-home.d2192692.jpg",
     "static/media/Ben.7fe02371.pdf": "/Portfolio/static/media/Ben.7fe02371.pdf",
     "static/media/Benito.76e37d88.jpg": "/Portfolio/static/media/Benito.76e37d88.jpg",
@@ -34,10 +34,10 @@
     "static/media/logoBenito.70f1a38f.png": "/Portfolio/static/media/logoBenito.70f1a38f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7617685a.js",
+    "static/js/runtime-main.c93fc959.js",
     "static/css/2.b4e56faa.chunk.css",
-    "static/js/2.aabf693b.chunk.js",
+    "static/js/2.9e25f499.chunk.js",
     "static/css/main.985643b0.chunk.css",
-    "static/js/main.2d1b9f6c.chunk.js"
+    "static/js/main.d7fcf3e4.chunk.js"
   ]
 }
